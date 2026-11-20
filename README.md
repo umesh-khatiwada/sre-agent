@@ -1,6 +1,8 @@
 # SRE Agent Domains
 
-This workspace tracks a small set of vendor domains related to simulation, AI for production systems, and incident management.
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+Research notes on vendors in the SRE / AIOps space. This workspace tracks a small set of vendor domains related to simulation, AI for production systems, and incident management.
 
 ## Domains
 
@@ -24,9 +26,11 @@ It helps teams respond to incidents faster, automate post-incident work, and kee
 
 ## Folder Structure
 
-- domains/simio.com/
-- domains/resolve.ai/
-- domains/rootly.com/
+- [`domains/simio.com/`](domains/simio.com/)
+- [`domains/resolve.ai/`](domains/resolve.ai/)
+- [`domains/rootly.com/`](domains/rootly.com/)
+
+Each folder holds a short `README.md` with the vendor's website, a summary and focus areas. There is no code in this repository.
 
 ## Notes
 
@@ -38,3 +42,10 @@ The content in this repository is intentionally brief and can be expanded later 
 - research notes
 - comparison tables
 
+## License
+
+Released under the [MIT License](LICENSE).
+
+## Author
+
+Umesh Khatiwada, https://github.com/umesh-khatiwada
